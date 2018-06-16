@@ -1,3 +1,10 @@
+set number
+
+set ts=4
+set softtabstop=4
+set expandtab
+set autoindent
+
 set nocompatible              " be iMproved, required
 filetype off                  " required
  
