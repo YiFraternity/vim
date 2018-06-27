@@ -26,7 +26,7 @@ Plugin 'rstacruz/sparkup'
 Plugin 'vim-syntastic/syntastic'   " 语法检查
 Plugin 'nvie/vim-flake8'   " 添加flake8代码风格检查
 Plugin 'scrooloose/nerdtree' " 给vim添加一个树形目录
-Plugin 'Valloric/YouCompleteMe'   " 自动不全
+" Plugin 'Valloric/YouCompleteMe'   " 自动不全
 Plugin 'Xuyuanp/nerdtree-git-plugin'    " 为nerdtree添加git支持
 Plugin 'altercation/vim-colors-solarized' " 配色方案
 Plugin 'jnurmine/zenburn'                 " 配色方案
